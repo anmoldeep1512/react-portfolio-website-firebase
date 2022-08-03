@@ -1,0 +1,16 @@
+// .experience-list {
+//     position: absolute;
+//     left: 10%;
+//     top: 50%;
+//     transform: translateY(-50%);
+//     width: 40%;
+//     max-height: 90%;
+// }
+.experience-page{
+    padding-left: 100px;
+    padding-right: 50px;
+    width: calc(100% - 100px);
+    position: initial;
+    height: 100%;
+    overflow: auto;
+}

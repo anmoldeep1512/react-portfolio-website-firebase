@@ -6,10 +6,12 @@ import Layout from './components/Layout'
 import Portfolio from './components/Portfolio'
 import Dashboard from './components/Dashboard'
 import './App.scss'
+import Experience from './components/Experience'
 
 function App() {
   return (
     <>
+
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
@@ -17,6 +19,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/portfolio" element={<Portfolio />} />
           <Route path="/dashboard" element={<Dashboard />} />
+          <Route path="/experience" element={<Experience />} />
         </Route>
       </Routes>
     </>

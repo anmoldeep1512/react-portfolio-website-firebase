@@ -7,8 +7,11 @@ import {
   faGithub,
   faYoutube,
   faSkype,
+  faTwitter,
+  faInstagram,
+  faGear
 } from '@fortawesome/free-brands-svg-icons'
-import { faHome, faUser, faEnvelope, faSuitcase } from '@fortawesome/free-solid-svg-icons'
+import { faHome, faUser, faEnvelope, faSuitcase, faClipboard } from '@fortawesome/free-solid-svg-icons'
 import { Link, NavLink } from 'react-router-dom'
 
 const Sidebar = () => {
@@ -25,8 +28,11 @@ const Sidebar = () => {
         <NavLink activeclassname="active" className="about-link" to="/about">
           <FontAwesomeIcon icon={faUser} color="#4d4d4e" />
         </NavLink>
-        <NavLink activeclassname="active" className="portfolio-link" to="/portfolio">
+        <NavLink activeclassname="active" className="experience-link" to="/experience">
           <FontAwesomeIcon icon={faSuitcase} color="#4d4d4e" />
+        </NavLink>
+        <NavLink activeclassname="active" className="portfolio-link" to="/portfolio">
+          <FontAwesomeIcon icon={faClipboard} color="#4d4d4e" />
         </NavLink>
         <NavLink
           activeclassname="active"
@@ -39,7 +45,7 @@ const Sidebar = () => {
       <ul>
         <li>
           <a
-            href="https://www.linkedin.com/in/slobodan-gaji%C4%87-006bb8b8/"
+            href="https://www.linkedin.com/in/anmoldeep-kaur1512/"
             target="_blank"
             rel="noreferrer"
           >
@@ -48,7 +54,7 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="https://github.com/bobangajicsm"
+            href="https://github.com/anmoldeep1512"
             target="_blank"
             rel="noreferrer"
           >
@@ -57,16 +63,20 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="https://www.youtube.com/channel/UCBu5ulO4d-d47lAVybpRTkw"
-            rel="noreferrer"
+            href="https://twitter.com/_Anmol313/"
             target="_blank"
+            rel="noreferrer"
           >
-            <FontAwesomeIcon icon={faYoutube} color="#4d4d4e" />
+            <FontAwesomeIcon icon={faTwitter} color="#4d4d4e" />
           </a>
         </li>
         <li>
-          <a href="skype:live:bobangajicsm" rel="noreferrer" target="_blank">
-            <FontAwesomeIcon icon={faSkype} color="#4d4d4e" />
+          <a
+            href="https://www.instagram.com/anmol.313/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <FontAwesomeIcon icon={faInstagram} color="#4d4d4e" />
           </a>
         </li>
       </ul>
