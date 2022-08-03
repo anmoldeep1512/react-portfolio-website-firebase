@@ -20,9 +20,9 @@ const Logo = () => {
       })
       .from(outlineLogoRef.current, {
         drawSVG: 0,
-        duration: 28,
+        duration: 20,
       })
-
+    
     gsap.fromTo(
       solidLogoRef.current,
       {
@@ -56,7 +56,7 @@ const Logo = () => {
   
         <g
           className="svg-container"
-          transform="translate(-40 215) scale(2.3 2.3)"
+          transform="translate(-55 232) scale(2.3 2.3)"
           fill="none"
         >
   
