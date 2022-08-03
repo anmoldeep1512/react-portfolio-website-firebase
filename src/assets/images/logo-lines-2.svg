@@ -1,53 +1,14 @@
-<?xml version="1.0"
- encoding="UTF-8" 
- standalone="no"?>
- <!-- Generator: Gravit.io -->
- <svg xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
-   style="isolation:isolate"
-    viewBox="0 0 500 625"
-     width="500pt" height="625pt">
-     <defs><clipPath id="_clipPath_QZIXUIMw4HEaqw9la2XbeDxJRRHt1m54">
-     <rect width="500" height="625"/></clipPath></defs>
-     <g clip-path="url(#_clipPath_QZIXUIMw4HEaqw9la2XbeDxJRRHt1m54)">
-     <g style="isolation:isolate">
-     <line x1="171" y1="127" x2="0" y2="594" vector-effect="non-scaling-stroke" 
-     stroke-width="1" stroke="rgb(0,0,0)" stroke-linejoin="miter" 
-     stroke-linecap="square" stroke-miterlimit="3"/>
-     <line x1="0" y1="594" x2="147" y2="594" vector-effect="non-scaling-stroke" 
-     stroke-width="1" stroke="rgb(0,0,0)" stroke-linejoin="miter" 
-     stroke-linecap="square" stroke-miterlimit="3"/>
-     <line x1="147" y1="594" x2="171" y2="496" vector-effect="non-scaling-stroke" 
-     stroke-width="1" stroke="rgb(0,0,0)" stroke-linejoin="miter" 
-     stroke-linecap="square" stroke-miterlimit="3"/>
-     <line x1="347" y1="496" x2="171" y2="496" vector-effect="non-scaling-stroke" 
-     stroke-width="1" stroke="rgb(0,0,0)" stroke-linejoin="miter" stroke-linecap="square" 
-     stroke-miterlimit="3"/><line x1="199" y1="413" x2="320" y2="413" 
-     vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(0,0,0)" 
-     stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
-     <line x1="260" y1="205" x2="320" y2="413" vector-effect="non-scaling-stroke" 
-     stroke-width="1" stroke="rgb(0,0,0)" stroke-linejoin="miter" 
-     stroke-linecap="square" stroke-miterlimit="3"/>
-     <line x1="347" y1="496" x2="379" y2="594" vector-effect="non-scaling-stroke" 
-     stroke-width="1" stroke="rgb(0,0,0)" stroke-linejoin="miter" 
-     stroke-linecap="square" stroke-miterlimit="3"/>
-     <line x1="320" y1="496" x2="347" y2="594" 
-     vector-effect="non-scaling-stroke" stroke-width="1" 
-     stroke="rgb(0,0,0)" stroke-linejoin="miter" 
-     stroke-linecap="square" stroke-miterlimit="3"/>
-     <line x1="244" y1="264" x2="290" y2="413" vector-effect="non-scaling-stroke" 
-     stroke-width="1" stroke="rgb(0,0,0)" stroke-linejoin="miter" stroke-linecap="square" 
-     stroke-miterlimit="3"/><line x1="347" y1="594" x2="495" y2="594" 
-     vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(0,0,0)"
-      stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
-      <line x1="168" y1="126" x2="329" y2="127" vector-effect="non-scaling-stroke" 
-      stroke-width="1" stroke="rgb(0,0,0)" stroke-linejoin="miter" 
-      stroke-linecap="square" stroke-miterlimit="3"/><line x1="199" y1="127" x2="29" 
-      y2="594" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(0,0,0)" 
-      stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
-      <line x1="329" y1="127" x2="495" y2="597" vector-effect="non-scaling-stroke" 
-      stroke-width="1" stroke="rgb(0,0,0)" stroke-linejoin="miter" 
-      stroke-linecap="square" stroke-miterlimit="3"/><line x1="261" y1="207" x2="199" 
-      y2="413" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(0,0,0)" 
-      stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/></g></g></svg>
-      
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 988.91 943">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #231f20;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M396.39,2.5L54.39,942.5M344.4,.5h312.03M340.39,4.5L4.39,940.5m-3.89,0H280.53m73.86-202l-72,198m72-194l340-12m4-2l62,214m-61.98-3h290.01m-352.02-201l68,202M656.39,.5l332,934M490.39,282.5l94,286m-186.02,4h236.03m5.98-2l-120-396m0,2l-124,390"/>
+</svg>
