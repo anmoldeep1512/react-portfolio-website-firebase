@@ -37,11 +37,20 @@
   animation: fadeIn 1s forwards;
   animation-delay: 1s;
 }
-
+h3{
+  font-size: 18px;
+  font-family: 'Coolvetica';
+  color: #ffd700;
+  font-weight: 400;
+  margin-top: 0;
+  position: relative;
+  left: -10px;
+}
 .container.contact-page,
 .container.about-page,
 .container.portfolio-page,
 .container.experience-page {
+    
   
     h1 {
       font-size: 53px;
@@ -94,6 +103,33 @@
       }
       &:nth-of-type(3) {
         animation-delay: 1.3s;
+      }
+      &:nth-of-type(4) {
+        animation-delay: 1.4s;
+      }
+      &:nth-of-type(5) {
+        animation-delay: 1.5s;
+      }
+      &:nth-of-type(6) {
+        animation-delay: 1.6s;
+      }
+      &:nth-of-type(7) {
+        animation-delay: 1.7s;
+      }
+      &:nth-of-type(8) {
+        animation-delay: 1.8s;
+      }
+      &:nth-of-type(9) {
+        animation-delay: 1.9s;
+      }
+      &:nth-of-type(10) {
+        animation-delay: 2.0s;
+      }
+      &:nth-of-type(11) {
+        animation-delay: 2.1s;
+      }
+      &:nth-of-type(12) {
+        animation-delay: 2.2s;
       }
     }
 

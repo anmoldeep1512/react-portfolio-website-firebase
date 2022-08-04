@@ -1,11 +1,13 @@
 import { useEffect, useState } from 'react'
 import {
-  faAngular,
+  faPython,
   faCss3,
   faGitAlt,
   faHtml5,
   faJsSquare,
   faReact,
+  faJava,
+  faLinux
 } from '@fortawesome/free-brands-svg-icons'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
@@ -33,31 +35,37 @@ const About = () => {
             />
           </h1>
           <p>
-            I'm very ambitious front-end developer looking for a role in
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+          I recently graduated from Guru Nanak Dev University with a B.Tech. 
+          in computer science and engineering. While there, I learned a lot
+          in subjects like data structures, algorithms, operating systems, 
+          and more. I maintained a GPA of 8.74.
           </p>
           <p align="LEFT">
-            I'm quietly confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+            I'm quietly confident, naturally curious, and constantly working on
+            improving my skills.
           </p>
-          <p>
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
-          </p>
+          <h3>Front-end skills</h3>
+          <p >ReactJS, HTML, CS, NPM, BootStrap, MaterialUI, StyledComponents</p>
+
+          <h3>Back-end skills</h3>
+          <p>Java Spring, .NET, MySQL, MongoDB</p>
+          
+          <h3>Languages</h3>
+          <p>Python, JavaScript, Java</p>
+
         </div>
 
         <div className="stage-cube-cont">
           <div className="cubespinner">
             <div className="face1">
-              <FontAwesomeIcon icon={faAngular} color="#DD0031" />
+              <FontAwesomeIcon icon={faJava} color="#DD0031" />
             </div>
             <div className="face2">
-              <FontAwesomeIcon icon={faHtml5} color="#F06529" />
+              <FontAwesomeIcon icon={faPython} color="#28A4D9" />
             </div>
+          
             <div className="face3">
-              <FontAwesomeIcon icon={faCss3} color="#28A4D9" />
+              <FontAwesomeIcon icon={faLinux} color="black" />
             </div>
             <div className="face4">
               <FontAwesomeIcon icon={faReact} color="#5ED4F4" />
