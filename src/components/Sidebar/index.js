@@ -5,11 +5,9 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
   faLinkedin,
   faGithub,
-  faYoutube,
-  faSkype,
+ 
   faTwitter,
   faInstagram,
-  faGear
 } from '@fortawesome/free-brands-svg-icons'
 import { faHome, faUser, faEnvelope, faSuitcase, faClipboard } from '@fortawesome/free-solid-svg-icons'
 import { Link, NavLink } from 'react-router-dom'

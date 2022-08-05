@@ -6,7 +6,6 @@ import {
 import "react-vertical-timeline-component/style.min.css";
 import SchoolIcon from "@material-ui/icons/School";
 import WorkIcon from "@material-ui/icons/Work";
-import StarIcon from "@material-ui/icons/Star";
 
 import AnimatedLetters from '../AnimatedLetters';
 import Loader from 'react-loaders';
