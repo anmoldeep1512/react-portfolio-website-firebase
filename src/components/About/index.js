@@ -44,6 +44,7 @@ const About = () => {
             I'm quietly confident, naturally curious, and constantly working on
             improving my skills.
           </p>
+          <p>Link to my resume: <a href="https://drive.google.com/file/d/1uF5yO_J0k0h4MpX_d7R--bTiw4t3Qzlx/view?usp=sharing">Resume</a></p>
           <h3>Front-end skills</h3>
           <p >ReactJS, HTML, CS, NPM, BootStrap, MaterialUI, StyledComponents</p>
 
