@@ -86,7 +86,7 @@ function Experience() {
         <VerticalTimelineElement
           contentStyle={{ color: '#fff' }}
           className="vertical-timeline-element--work"
-          date=" March 2022 - present"
+          date=" March 2022 - August 2022"
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<WorkIcon />}
         >
@@ -104,6 +104,26 @@ function Experience() {
 
           </p>
         </VerticalTimelineElement>
+
+        <VerticalTimelineElement
+          contentStyle={{ color: '#fff' }}
+          className="vertical-timeline-element--work"
+          date=" August 2022 - Present"
+          iconStyle={{ background: "#e9d35b", color: "#fff" }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title" style={{color: "black"}}>
+            Software Engineer 1 - HashedIn
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle" style={{color: "black"}}>
+            Bangalore, India
+          </h4>
+          <p style={{color: "black"}}>
+          AWS Certified Cloud Practioner
+
+          </p>
+        </VerticalTimelineElement>
+
       </VerticalTimeline>
           </div>
         </div>

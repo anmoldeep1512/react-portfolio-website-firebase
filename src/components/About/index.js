@@ -49,7 +49,7 @@ const About = () => {
           <p >ReactJS, HTML, CS, NPM, BootStrap, MaterialUI, StyledComponents</p>
 
           <h3>Back-end skills</h3>
-          <p>Java Spring, .NET, MySQL, MongoDB</p>
+          <p>Java Spring, PySpark, .NET, MySQL, MongoDB</p>
           
           <h3>Languages</h3>
           <p>Python, JavaScript, Java</p>
